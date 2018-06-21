@@ -2,11 +2,9 @@
 #
 
 # Site settings
-title: Spectral
+title: Myong Choi
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
+  Compositor
 owner: Myong Choi # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
 email: choi.myongk@gmail.com
@@ -17,10 +15,10 @@ social:
   github: https://github.com/myongchoi
   linkedin-square: https://linkedin.com/in/myongchoi
   instagram-official: https://instagram.com/myongchoi
-  imdb.: https://www.imdb.com/name/nm4942418/
+  imdb: https://www.imdb.com/name/nm4942418/
   #email: /contact/
   #flickr:
-  #instagram:
+  #instagram: myongchoi
   #youtube-square:
   #spotify:
   #stack-overflow:
